@@ -372,7 +372,7 @@ body{
 @media (min-width: 1px) and (max-width: 438px) {
 
     .header {
-        background-color: lightblue;
+    
         padding: 0 20px;
         height: 90px;
     }
